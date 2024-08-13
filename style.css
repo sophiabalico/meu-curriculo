@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: sans-serif;
+    padding-left: 50px;
+}
+
+.foto {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+.espacamento10 {
+    margin-bottom: 5px;
+
+}
+
+.espacamento-hr1 {
+    margin-bottom: 15px;
+    margin-top: 2px;
+}
+.espacamento-hr2 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.hrborder {
+    border: 1px solid;
+}
+
+
+
